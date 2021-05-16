@@ -75,7 +75,7 @@ thePlayer = sprites.create(img`
     . d d d d d . . 
     . f f 1 2 f f . 
     . f f 1 1 f f . 
-    d d f f f f d d 
+    . d f f f f d . 
     . . f . . f . . 
     `, SpriteKind.Player)
 custom.setTilemap(tilemap`level1`)
