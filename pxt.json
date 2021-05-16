@@ -1,0 +1,33 @@
+{
+    "name": "Office Rush",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "tilemaps": "github:microsoft/pxt-tilemaps#v1.9.0",
+        "arcade-text": "github:darzu/arcade-text#v1.0.0",
+        "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "custom.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.3.2",
+        "tag": "v1.3.2",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/a1d0c5d2554ed1a7655d2f8cdb5f8472d59892db",
+        "target": "1.4.41",
+        "pxt": "6.3.2",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
