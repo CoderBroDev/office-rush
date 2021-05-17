@@ -5,7 +5,7 @@ This game was made for a jam hosted on itch.io
 
 To edit this repository in MakeCode.
 
-* Go to this link-https://arcade.makecode.com/62001-93198-74262-78008
+* Go to this link-https://makecode.com/_0Mr4Xk0TT9oP
 * click on **Edit Code** then wait for **Project**
 
 ## Blocks preview
