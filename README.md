@@ -1,25 +1,13 @@
  
-
-
-> Open this page at [https://coderbrodev.github.io/office-rush/](https://coderbrodev.github.io/office-rush/)
-
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/coderbrodev/office-rush** and import
-
+## Made for the Makecode Time Jam 2021 
+This game was made for a jam hosted on itch.io
 ## Edit this project ![Build status badge](https://github.com/coderbrodev/office-rush/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/coderbrodev/office-rush** and click import
-
+* Go to this link-https://arcade.makecode.com/62001-93198-74262-78008
+* click on **Edit Code** then wait for **Project**
+* 
 ## Blocks preview
 
 This image shows the blocks code from the last commit in master.
@@ -29,5 +17,3 @@ This image may take a few minutes to refresh.
 
 #### Metadata (used for search, rendering)
 
-* for PXT/arcade
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
