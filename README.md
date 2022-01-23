@@ -10,7 +10,7 @@ To edit this repository in MakeCode.
 
 ## Blocks preview
 
-This image shows the blocks code from the last commit in master.
+This image shows the blocks code that I used to make the game
 This image may take a few minutes to refresh.
 
 ![A rendered view of the blocks](https://github.com/coderbrodev/office-rush/raw/master/.github/makecode/blocks.png)
